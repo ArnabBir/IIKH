@@ -1,0 +1,6 @@
+Toast,,Bread, Butter, Jam::,,Paste the butter/jam on the bread.::
+Ice Cream,,Milk, Water, Sugar::,,Freeze the milk with water and add sugar::
+Omlet,,Egg, Salt, Oil::,,Fry the egg in oil and add salt::
+Rice,,Rice, Water::,,Boil the rice in water::
+Curry,,Vegetables, Salt, Sugar, Spice::,,Cook vegetables with salt and spices.::
+Juice,,Fruits, Sugar::,,Extract it from the pulp of the fruit and add sugar.::

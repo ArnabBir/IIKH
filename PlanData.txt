@@ -1,0 +1,2 @@
+Menu,,Toast::Juice::Juice::Curry::Toast::Omlet::Omlet::Toast::Curry::Rice::Ice Cream::Rice::Ice Cream::Juice::Rice::Juice::Omlet::Rice::Curry::Ice Cream::Curry::
+Menu,,Toast::Juice::Juice::Curry::Toast::Omlet::Omlet::Toast::Curry::Rice::Ice Cream::Rice::Ice Cream::Juice::Rice::Juice::Omlet::Rice::Curry::Ice Cream::Curry::
